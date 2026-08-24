@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/0048-rotate-image) |
+| [1872-stone-game-viii](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1927-sum-game) |
 ## String
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1872-stone-game-viii](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -96,4 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/omghotekar01-dotcom/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
